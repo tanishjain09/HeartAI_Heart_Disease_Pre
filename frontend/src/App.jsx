@@ -230,7 +230,7 @@ export default function App() {
             <div className="logo-mark">
               <HeartIcon size={18} />
             </div>
-            <span className="logo-name">HeartSense<span className="logo-ai"> AI</span></span>
+            <span className="logo-name">Heart<span className="logo-ai">AI</span></span>
           </div>
           <div className="header-ecg" aria-hidden="true">
             <EcgLine />
@@ -475,7 +475,7 @@ export default function App() {
       {/* ── Footer ── */}
       <footer className="footer">
         <div className="footer-inner">
-          <span>HeartSense AI</span>
+          <span>HeartAI</span>
           <span className="footer-dot">·</span>
           <span>For educational purposes only — not a substitute for medical advice</span>
         </div>
